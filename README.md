@@ -1,8 +1,10 @@
 AI-Powered CRM
+
 A lightweight, full-stack CRM built for a small business — designed to replace messy spreadsheets with a clean, centralised system for managing contacts, deals, and tasks.
 Built with Claude Code as part of learning AI-assisted development.
 ---
 Features
+
 Companies — track all client and prospect companies with industry and size segmentation
 Contacts — manage decision makers with linked companies, notes, and lead source tracking
 Pipeline — kanban board with drag-and-drop deal management across 7 stages
