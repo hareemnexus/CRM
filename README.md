@@ -69,14 +69,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## Screenshots
 
-*Coming soon*
-
----
-
-## Built By
-
-**Hareem** — Founder of ZyvosAI, building AI automation systems and intelligent workflows for SMBs.
-
-[LinkedIn](https://linkedin.com/in/yourprofile) · [ZyvosAI](https://zyvosai.com)
